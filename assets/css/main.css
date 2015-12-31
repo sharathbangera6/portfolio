@@ -604,3 +604,8 @@ body {
   @media (max-width: 775px) {
     .home-wrap {
       display: block; } }
+  .home-wrap .home-section {
+    -webkit-box-flex: 1;
+    -webkit-flex: 1;
+        -ms-flex: 1;
+            flex: 1; }
